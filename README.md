@@ -5,13 +5,13 @@ Atatürk'ün 180'den fazla sözü ile oluşturulmuş bir JSON API.
 ## Kullanım
 
 ```bash
-GET https://ataturk-sozleri-api.herokuapp.com/
+GET [https://ataturk-sozleri-api.herokuapp.com](https://ataturksozleriapi.cyclic.app/)/
 ```
 
 ### CURL ile:
 
 ```bash
-curl https://ataturk-sozleri-api.herokuapp.com/
+curl [https://ataturk-sozleri-api.herokuapp.com](https://ataturksozleriapi.cyclic.app/)/
 ```
 
 ## Örnek Sonuç
@@ -24,5 +24,3 @@ curl https://ataturk-sozleri-api.herokuapp.com/
 ## Kaynakça
 [Wikiquote](https://tr.wikiquote.org/wiki/Mustafa_Kemal_Atat%C3%BCrk)
 
-## Lisans
-Atatürk Sözleri API [Apache License 2.0](https://github.com/orhanemree/ataturk-sozleri-api/blob/main/LICENSE) ile lisanslanmıştır.
